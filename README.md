@@ -1,6 +1,6 @@
 # SuperMew 项目说明
 
-SuperMew 是一个知识库优先、面向真实运行与评测的 Agent 平台。它以持久化 Thread、可恢复
+SuperMew 是一个知识库优先、面向真实运行场景与评测的 Agent 平台。它以持久化 Thread、可恢复
 Run、版本化 Event、不可变 Document Version 和明确的 Provider 失败语义为核心，提供 RAG、
 HITL、RAG 效果评测以及可审计的 Skill / Tool 执行。
 
